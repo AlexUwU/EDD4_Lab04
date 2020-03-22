@@ -6003,24 +6003,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Rodrigo\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\alexa\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rodrigo\\Desktop\\Universidad\\1Ciclo2020\\ED2_LAB2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj",
+      "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Escritorio\\ED2Labs\\Estructuras2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj",
       "projectName": "LZW-Compression-Decompression",
-      "projectPath": "C:\\Users\\Rodrigo\\Desktop\\Universidad\\1Ciclo2020\\ED2_LAB2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj",
-      "packagesPath": "C:\\Users\\Rodrigo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rodrigo\\Desktop\\Universidad\\1Ciclo2020\\ED2_LAB2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\obj\\",
+      "projectPath": "C:\\Users\\alexa\\OneDrive\\Escritorio\\ED2Labs\\Estructuras2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj",
+      "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\alexa\\OneDrive\\Escritorio\\ED2Labs\\Estructuras2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Rodrigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\alexa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -6066,7 +6067,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

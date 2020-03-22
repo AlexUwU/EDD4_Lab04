@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexa\\OneDrive\\Escritorio\\ED2Labs\\Estructuras2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj": {}
+    "C:\\Users\\alexa\\source\\repos\\ED2_LAB4\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexa\\OneDrive\\Escritorio\\ED2Labs\\Estructuras2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj": {
+    "C:\\Users\\alexa\\source\\repos\\ED2_LAB4\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexa\\OneDrive\\Escritorio\\ED2Labs\\Estructuras2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj",
+        "projectUniqueName": "C:\\Users\\alexa\\source\\repos\\ED2_LAB4\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj",
         "projectName": "LZW-Compression-Decompression",
-        "projectPath": "C:\\Users\\alexa\\OneDrive\\Escritorio\\ED2Labs\\Estructuras2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj",
+        "projectPath": "C:\\Users\\alexa\\source\\repos\\ED2_LAB4\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\LZW-Compression-Decompression.csproj",
         "packagesPath": "C:\\Users\\alexa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexa\\OneDrive\\Escritorio\\ED2Labs\\Estructuras2\\EDD4_Lab04\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\obj\\",
+        "outputPath": "C:\\Users\\alexa\\source\\repos\\ED2_LAB4\\LZW-Compression-Decompression\\LZW-Compression-Decompression\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -41,12 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "target": "Package",
-              "version": "[3.1.1, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

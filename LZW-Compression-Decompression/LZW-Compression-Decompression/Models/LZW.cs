@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-
+using System.Text;
 namespace LZW_Compression_Decompression.Models
 {
     public class LZW
@@ -65,6 +65,46 @@ namespace LZW_Compression_Decompression.Models
 
 			return result;
 		}
+
+		public static string Descompresion(List<int> compressed)
+		{
+			// Build the dictionary.
+			int dictSize = 256;
+			Dictionary<int, string> dictionary = new Dictionary<int, string>();
+			for (int i = 0; i < 256; i++)
+			{
+				dictionary[i] = "" + (char)i;
+			}
+
+			string w = "" + (char)(int)compressed.ElementAt(0);
+			compressed.RemoveAt(0);
+			StringBuilder result = new StringBuilder(w);
+			foreach (int k in compressed)
+			{
+				string entry;
+				if (dictionary.ContainsKey(k))
+				{
+					entry = dictionary[k];
+				}
+				else if (k == dictSize)
+				{
+					entry = w + w[0];
+				}
+				else
+				{
+					throw new System.ArgumentException("Bad compressed k: " + k);
+				}
+
+				result.Append(entry);
+
+				// Add w+entry[0] to the dictionary.
+				dictionary[dictSize++] = w + entry[0];
+
+				w = entry;
+			}
+			return result.ToString();
+		}
+
 
 	}
 }
