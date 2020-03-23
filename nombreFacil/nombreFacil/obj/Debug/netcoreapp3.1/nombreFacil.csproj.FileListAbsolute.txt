@@ -1,0 +1,38 @@
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.exe
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.deps.json
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.runtimeconfig.json
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.runtimeconfig.dev.json
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.dll
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.pdb
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\staticwebassets\nombreFacil.StaticWebAssets.Manifest.cache
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\staticwebassets\nombreFacil.StaticWebAssets.xml
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.AssemblyInfoInputs.cache
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.AssemblyInfo.cs
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.RazorTargetAssemblyInfo.cache
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.dll
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.pdb
+C:\Users\alexa\Downloads\Estructura de datos II\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.csprojAssemblyReference.cache
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.AssemblyInfoInputs.cache
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.AssemblyInfo.cs
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.dll
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.pdb
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.exe
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.deps.json
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.runtimeconfig.json
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.runtimeconfig.dev.json
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.dll
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\bin\Debug\netcoreapp3.1\nombreFacil.pdb
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.RazorTargetAssemblyInfo.cache
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\staticwebassets\nombreFacil.StaticWebAssets.Manifest.cache
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\staticwebassets\nombreFacil.StaticWebAssets.xml
+C:\Users\Rodrigo\Desktop\nombreFacil\nombreFacil\obj\Debug\netcoreapp3.1\nombreFacil.genruntimeconfig.cache
